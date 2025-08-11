@@ -40,7 +40,7 @@ With over **8 years of academic and industrial experience** in **critical infras
 - **Electric Vehicle as a Mobile Storage: Market Analysis and Grid Integration Challenges** — EEM 2024 (Top 5 PhD Paper)  
 - **Energy Management in Smart Grid Residential Homes Using Demand Response** — 2019  
 
-> Full list available on [Google Scholar](https://scholar.google.com/citations?user=mahdifirouzi)
+> Full list available on [Google Scholar](https://scholar.google.com/citations?user=Xkrth2h7g1gC&hl=en)
 
 ---
 
@@ -62,7 +62,7 @@ With over **8 years of academic and industrial experience** in **critical infras
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahdifirouzi)  
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Mahdi-Firouzi)  
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=mahdifirouzi)  
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=Xkrth2h7g1gC&hl=en)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahdifirouzi)  
 
 ---
