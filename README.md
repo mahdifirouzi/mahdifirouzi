@@ -21,7 +21,8 @@ With over **8 years of academic and industrial experience** in **critical infras
 - 🎓 **NTU Vice-Chancellor’s PhD Scholarship** (full tuition + stipend)  
 - 🌐 Delivered **Iran’s first OT-specific SIEM integration** improving cyber resilience of national SCADA systems  
 - 📊 Developed **multi-scenario cascading failure analysis tool** for TSO-level transmission networks  
-- 📡 Led IEC 61850-based **substation automation** deployments in EHV/HV/MV networks
+- 📡 Led IEC 61850-based **substation automation** deployments in EHV/HV/MV networks  
+- 🤝 **Student Engagement Lead** — [IEEE UK & Ireland Systems Council](https://www.ieee-ukandireland.org/chapters/systems-council-chapter/) (2025–Present)  
 
 ---
 
@@ -64,8 +65,10 @@ With over **8 years of academic and industrial experience** in **critical infras
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Mahdi-Firouzi)  
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=Xkrth2h7g1gC&hl=en)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahdifirouzi)  
+[![Website](https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.mahdifirouzi.com/index.html)  
+
+> For a **detailed CV**, please visit my [personal website](https://www.mahdifirouzi.com/index.html).
 
 ---
 
-> _"Electricity has fascinated me since childhood — today, I combine engineering precision with cybersecurity insight to shape the future of resilient and sustainable power systems."_  
-"""
+> _"Electricity has fascinated me since childhood — today, I combine engineering precision with cybersecurity insight to shape the future of resilient and sustainable power systems."_
