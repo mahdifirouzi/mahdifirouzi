@@ -1,4 +1,4 @@
-readme_content = """# Mahdi Firouzi Nezamabadi  
+"""# Mahdi Firouzi Nezamabadi  
 > **Electrical Engineer | Power System Researcher | SCADA & ICS Cybersecurity Specialist**  
 > _Advancing secure, sustainable, and intelligent energy systems worldwide_
 
